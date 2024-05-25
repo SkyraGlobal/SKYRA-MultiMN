@@ -1,0 +1,7 @@
+COIN_NAME="skyra"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="skyrad"
+COIN_CLI="skyra-cli"
+COIN_FOLDER="/root/.skyra"
+COIN_CONFIG="skyra.conf"
+COIN_SERVICE="skyra.service"
